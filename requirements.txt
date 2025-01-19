@@ -1,0 +1,10 @@
+# Core Data Manipulation and Computation Libraries
+pandas==2.1.1    # For data analysis and manipulation
+numpy==1.24.4    # For numerical computations
+
+# Machine Learning Libraries
+scikit-learn==1.2.2    # For building and evaluating machine learning models
+joblib==1.2.0          # For model serialization and loading
+
+# Web Framework
+flask==2.3.2    # For building REST APIs and web applications
