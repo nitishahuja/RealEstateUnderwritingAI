@@ -1,4 +1,4 @@
-#### **RealEstateUnderwritingAI**
+# **RealEstateUnderwritingAI**
 
 An AI-powered tool designed for real estate underwriting to predict key investment metrics such as ROI (Return on Investment), NOI (Net Operating Income), Cap Rate, and Annual Cash Flow. This project uses synthetic data generation, advanced preprocessing, and machine learning to help investors make data-driven property decisions.
 
