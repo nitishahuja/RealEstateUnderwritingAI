@@ -14,6 +14,8 @@ def make_predictions(data_file, models_folder, scaler_file, output_file):
     - output_file (str): Path to save the predicted data CSV.
     """
     
+
+    
     # ✅ Step 1: Load the preprocessed property data
     try:
         data = pd.read_csv(data_file)
