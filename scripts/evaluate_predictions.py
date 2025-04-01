@@ -9,6 +9,8 @@ def evaluate_predictions(data_file, model_file, feature_file, scaler_file):
         data = pd.read_csv(data_file)
         print("Loaded data for evaluation.")
 
+
+
         # Load the trained model
         model = joblib.load(model_file)
         print("Loaded trained model.")
